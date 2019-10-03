@@ -29,4 +29,9 @@ If you're new to open source contributions, the following guides could be of use
 - Digital Ocean's [Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 - Github's [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 
+## Demo Workshop
+- [Viorela's Repo](https://github.com/viorelaioia/wit_workshop)
+- [Viorela's Slides](https://docs.google.com/presentation/d/15JptGdX71TY8Tgb1-WBKqMCRXKMvyOY6tb2QKNBgInw/edit?ts=5d960b8d#slide=id.g61ff48c437_0_34)
+
 ## Happy Hacking!
+
