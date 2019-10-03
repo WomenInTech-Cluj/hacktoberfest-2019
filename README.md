@@ -22,7 +22,7 @@ Feel free to add more projects/issues to this list.
 
 If you're new to open source contributions, the following guides could be of use for you:
 - [How to Contribute to an Open Source Project](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) by Sarah Drasner
-- Digital Ocean's [Introcution to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+- Digital Ocean's [Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 - Github's [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 
 ## Happy Hacking!
