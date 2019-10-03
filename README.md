@@ -9,12 +9,12 @@ To join the official event, please follow these steps: https://hacktoberfest.dig
 ## Projects & Issues
 
 Besides [the list of projects](https://hacktoberfest.digitalocean.com/) that's "featured" on the main event page, we've also found a few interesting projects to work on. Here they are:
-- a11y issues: https://www.upyoura11y.com/contribute-to-a11y-in-oss/
-- Dev.to contribution guide: https://dev.to/devteam/how-to-contribute-to-dev-this-hacktoberfest-5b91
-- Gatsby.js issues: https://github.com/cloudinary-devs/gatsby-transformer-cloudinary/issues/3
-- Sarah Draser's "good first issue"s: https://github.com/search?q=user%3Asdras+good+first+issue&type=Issues
-- Feedback for a new project idea: https://github.com/buildtip/create-web-app/issues/60
-- Teleport HQ's "good first issue"s: https://github.com/teleporthq/teleport-code-generators/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 & https://github.com/teleporthq/teleport-repl/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+- [a11y issues](https://www.upyoura11y.com/contribute-to-a11y-in-oss/)
+- [Dev.to contribution guide](https://dev.to/devteam/how-to-contribute-to-dev-this-hacktoberfest-5b91)
+- [Gatsby.js issues](https://github.com/cloudinary-devs/gatsby-transformer-cloudinary/issues/3)
+- [Sarah Draser's "good first issue"s](https://github.com/search?q=user%3Asdras+good+first+issue&type=Issues)
+- [Feedback for a new project idea](https://github.com/buildtip/create-web-app/issues/60)
+- Teleport HQ's "good first issue"s on [code generators](https://github.com/teleporthq/teleport-code-generators/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) & [REPL](https://github.com/teleporthq/teleport-repl/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 Feel free to add more projects/issues to this list.
 
