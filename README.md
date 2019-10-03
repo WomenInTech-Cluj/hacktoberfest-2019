@@ -17,6 +17,7 @@ Besides [the list of projects](https://hacktoberfest.digitalocean.com/) that's "
 - teleport HQ's "good first issue"s on [code generators](https://github.com/teleporthq/teleport-code-generators/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) & [REPL](https://github.com/teleporthq/teleport-repl/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - this [list](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) assembled by freeCodeCamp (see "Step 4")
 - [JS Heroes website "good first issue"s](https://github.com/jsheroes/jsheroes.io/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [Code for Romania issues](https://github.com/search?q=org%3Acode4romania&state=open&type=Issues)
 
 Feel free to add more projects/issues to this list.
 
