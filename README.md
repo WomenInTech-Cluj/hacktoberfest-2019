@@ -11,3 +11,5 @@ Besides [the list of projects](https://hacktoberfest.digitalocean.com/) that's "
 - Sarah Draser's "good first issue"s: https://github.com/search?q=user%3Asdras+good+first+issue&type=Issues
 - Feedback for a new project idea: https://github.com/buildtip/create-web-app/issues/60
 - Teleport HQ's "good first issue"s: https://github.com/teleporthq/teleport-code-generators/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 & https://github.com/teleporthq/teleport-repl/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+
+Feel free to add more projects/issues to this list. Happy hacking!
